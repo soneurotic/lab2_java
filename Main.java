@@ -48,7 +48,7 @@ public class Main {
                         System.out.println("2 - вивести заданий рядок");
                         System.out.println("3 - вивести заданий стовпець");
                         System.out.println("4 - вивести заданий елемент");
-                        System.out.println("5 - повернути розмірність матриці матриці");
+                        System.out.println("5 - повернути розмірність матриці");
                         System.out.println("6 - створити копію матриці");
                         System.out.println("7 - повернути обернену матрицю");
                         System.out.println("0 - повернутися назад");
